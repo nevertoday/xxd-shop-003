@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-shop-003"
+  short_description: "Custom-shaped product tag badges grown from the product."
+  default_prompt: "Use $xxd-shop-003; require a product name, keep the bundled original brief as the sole aesthetic authority, let the badge outline grow from product, lettering and information blocks, show a price only from supplied facts and never a placeholder, use attribute words only when visible or stated, deliver each badge on a clean plain background without a scene, and write fresh PNGs into one flat task directory."
+
+policy:
+  allow_implicit_invocation: true
