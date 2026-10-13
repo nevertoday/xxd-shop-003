@@ -10,7 +10,7 @@
    "id": "c01",
    "section": "category",
    "ratio": "3:4",
-   "input": "name",
+   "input": "product-qy-shampoo+logo-qingyu",
    "use": {
     "zh": "货架牌",
     "en": "Shelf tag"
@@ -33,7 +33,7 @@
    "id": "c02",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-mqx-can+logo-maoqiuxing",
    "use": {
     "zh": "详情页模块",
     "en": "Detail-page module"
@@ -56,7 +56,7 @@
    "id": "c03",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-keke-chips+logo-keke",
    "use": {
     "zh": "详情页模块",
     "en": "Detail-page module"
@@ -79,7 +79,7 @@
    "id": "c04",
    "section": "category",
    "ratio": "3:4",
-   "input": "pouch-green",
+   "input": "product-yunao-coldtea+logo-yunao",
    "use": {
     "zh": "货架牌",
     "en": "Shelf tag"
@@ -102,7 +102,7 @@
    "id": "c05",
    "section": "category",
    "ratio": "4:5",
-   "input": "name",
+   "input": "product-sc-case+logo-shengchuan",
    "use": {
     "zh": "详情页模块",
     "en": "Detail-page module"
@@ -125,7 +125,7 @@
    "id": "c06",
    "section": "category",
    "ratio": "1:1",
-   "input": "name",
+   "input": "product-keke-nuts+logo-keke",
    "use": {
     "zh": "货架牌",
     "en": "Shelf tag"
@@ -148,7 +148,7 @@
    "id": "s01",
    "section": "size",
    "ratio": "1:1",
-   "input": "honey-jar",
+   "input": "product-yfp-honey+logo-yefengpo",
    "use": {
     "zh": "详情页模块",
     "en": "Detail-page module"
@@ -171,7 +171,7 @@
    "id": "s02",
    "section": "size",
    "ratio": "3:4",
-   "input": "honey-jar",
+   "input": "product-yfp-honey+logo-yefengpo",
    "use": {
     "zh": "货架牌",
     "en": "Shelf tag"
@@ -194,7 +194,7 @@
    "id": "s03",
    "section": "size",
    "ratio": "9:16",
-   "input": "honey-jar",
+   "input": "product-yfp-honey+logo-yefengpo",
    "use": {
     "zh": "店内竖屏",
     "en": "In-store vertical screen"
@@ -217,7 +217,7 @@
    "id": "s04",
    "section": "size",
    "ratio": "16:9",
-   "input": "honey-jar",
+   "input": "product-yfp-honey+logo-yefengpo",
    "use": {
     "zh": "横幅",
     "en": "Banner"
@@ -240,7 +240,7 @@
    "id": "s05",
    "section": "special",
    "ratio": "3:4",
-   "input": "orange",
+   "input": "orange+logo-chengli",
    "use": {
     "zh": "货架牌",
     "en": "Shelf tag"
@@ -263,7 +263,7 @@
    "id": "s06",
    "section": "special",
    "ratio": "1:1",
-   "input": "cream-jar",
+   "input": "product-qibai-cream+logo-qibai",
    "use": {
     "zh": "详情页模块",
     "en": "Detail-page module"
@@ -286,7 +286,7 @@
    "id": "s07",
    "section": "special",
    "ratio": "3:4",
-   "input": "cold-brew",
+   "input": "product-shanyu-coldbrew+logo-shanyu",
    "use": {
     "zh": "货架牌",
     "en": "Shelf tag"
@@ -309,7 +309,7 @@
    "id": "s08",
    "section": "special",
    "ratio": "1:1",
-   "input": "honey-jar",
+   "input": "product-yfp-honey+logo-yefengpo",
    "use": {
     "zh": "详情页模块",
     "en": "Detail-page module"
