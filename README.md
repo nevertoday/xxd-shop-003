@@ -15,12 +15,28 @@
 
 <p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="详情页模块"></a><br><sub>详情页模块 · 1:1 · 1254x1254<br>野蜂坡 百花蜜 · <a href="assets/examples/sources/honey-jar.jpg">原图</a> · 文案方案（中文）</sub></p>
 
+### 能做哪些品类
+
+每格一个品类，点开看大图；下面各段有用途、比例、像素和输入说明。
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-3x4-1086x1448.png"><img src="assets/examples/preview/c01-category-3x4-1086x1448.webp" height="130" alt="个护清洁"></a><br><sub><b>个护清洁</b><br>货架牌</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-1x1-1254x1254.png"><img src="assets/examples/preview/c02-category-1x1-1254x1254.webp" height="130" alt="宠物"></a><br><sub><b>宠物</b><br>详情页模块</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-1x1-1254x1254.png"><img src="assets/examples/preview/c03-category-1x1-1254x1254.webp" height="130" alt="零食"></a><br><sub><b>零食</b><br>详情页模块</sub></td><td align="center" valign="top"><a href="assets/examples/c04-category-3x4-1086x1448.png"><img src="assets/examples/preview/c04-category-3x4-1086x1448.webp" height="130" alt="茶饮"></a><br><sub><b>茶饮</b><br>货架牌</sub></td><td align="center" valign="top"><a href="assets/examples/c05-category-4x5-1122x1402.png"><img src="assets/examples/preview/c05-category-4x5-1122x1402.webp" height="130" alt="3C 数码"></a><br><sub><b>3C 数码</b><br>详情页模块</sub></td><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="130" alt="食品"></a><br><sub><b>食品</b><br>详情页模块</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/s05-special-3x4-1086x1448.png"><img src="assets/examples/preview/s05-special-3x4-1086x1448.webp" height="130" alt="生鲜"></a><br><sub><b>生鲜</b><br>货架牌</sub></td><td align="center" valign="top"><a href="assets/examples/s06-special-1x1-1254x1254.png"><img src="assets/examples/preview/s06-special-1x1-1254x1254.webp" height="130" alt="护肤"></a><br><sub><b>护肤</b><br>详情页模块</sub></td><td align="center" valign="top"><a href="assets/examples/s07-special-3x4-1086x1448.png"><img src="assets/examples/preview/s07-special-3x4-1086x1448.webp" height="130" alt="咖啡"></a><br><sub><b>咖啡</b><br>货架牌</sub></td></tr>
+</table>
+
 ### 一个商品，适配每个位置
 
 同一商品、同一份原稿，每个比例都重新构图，不是裁切。
 
 <table>
 <tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="详情页模块"></a><br><sub>详情页模块 · 1:1 · 1254x1254<br>野蜂坡 百花蜜 · <a href="assets/examples/sources/honey-jar.jpg">原图</a> · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="货架牌"></a><br><sub>货架牌 · 3:4 · 1086x1448<br>野蜂坡 百花蜜 · <a href="assets/examples/sources/honey-jar.jpg">原图</a> · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="店内竖屏"></a><br><sub>店内竖屏 · 9:16 · 941x1672<br>野蜂坡 百花蜜 · <a href="assets/examples/sources/honey-jar.jpg">原图</a> · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="横幅"></a><br><sub>横幅 · 16:9 · 1672x941<br>野蜂坡 百花蜜 · <a href="assets/examples/sources/honey-jar.jpg">原图</a> · 文案方案（中文）</sub></td></tr>
+</table>
+
+### 换一个品类也成立
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/c01-category-3x4-1086x1448.png"><img src="assets/examples/preview/c01-category-3x4-1086x1448.webp" height="200" alt="货架牌"></a><br><sub>货架牌 · 3:4 · 1086x1448<br>清屿 氨基酸洗发水 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c02-category-1x1-1254x1254.png"><img src="assets/examples/preview/c02-category-1x1-1254x1254.webp" height="200" alt="详情页模块"></a><br><sub>详情页模块 · 1:1 · 1254x1254<br>毛球星 猫罐头 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c03-category-1x1-1254x1254.png"><img src="assets/examples/preview/c03-category-1x1-1254x1254.webp" height="200" alt="详情页模块"></a><br><sub>详情页模块 · 1:1 · 1254x1254<br>嗑嗑 薯片 · 仅商品名称 · 文案方案（中文）</sub></td></tr>
+<tr><td align="center" valign="top"><a href="assets/examples/c04-category-3x4-1086x1448.png"><img src="assets/examples/preview/c04-category-3x4-1086x1448.webp" height="200" alt="货架牌"></a><br><sub>货架牌 · 3:4 · 1086x1448<br>云坳 冷泡茶包 · <a href="assets/examples/sources/pouch-green.jpg">原图</a> · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c05-category-4x5-1122x1402.png"><img src="assets/examples/preview/c05-category-4x5-1122x1402.webp" height="200" alt="详情页模块"></a><br><sub>详情页模块 · 4:5 · 1122x1402<br>声川 手机壳 · 仅商品名称 · 文案方案（中文）</sub></td><td align="center" valign="top"><a href="assets/examples/c06-category-1x1-1254x1254.png"><img src="assets/examples/preview/c06-category-1x1-1254x1254.webp" height="200" alt="货架牌"></a><br><sub>货架牌 · 1:1 · 1254x1254<br>嗑嗑 每日坚果礼盒 · 仅商品名称 · 文案方案（中文）</sub></td></tr>
 </table>
 
 ### 牌子从商品形态长出来

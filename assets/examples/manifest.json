@@ -7,6 +7,144 @@
  "set": null,
  "items": [
   {
+   "id": "c01",
+   "section": "category",
+   "ratio": "3:4",
+   "input": "name",
+   "use": {
+    "zh": "货架牌",
+    "en": "Shelf tag"
+   },
+   "product": {
+    "zh": "清屿 氨基酸洗发水",
+    "en": "QINGYU amino-acid shampoo"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "个护清洁",
+    "en": "Personal & home care"
+   },
+   "hero": false,
+   "file": "c01-category-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "c02",
+   "section": "category",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "详情页模块",
+    "en": "Detail-page module"
+   },
+   "product": {
+    "zh": "毛球星 猫罐头",
+    "en": "MAOQIUXING canned cat food"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "宠物",
+    "en": "Pets"
+   },
+   "hero": false,
+   "file": "c02-category-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "c03",
+   "section": "category",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "详情页模块",
+    "en": "Detail-page module"
+   },
+   "product": {
+    "zh": "嗑嗑 薯片",
+    "en": "KEKE potato chips"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "零食",
+    "en": "Snacks"
+   },
+   "hero": false,
+   "file": "c03-category-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "c04",
+   "section": "category",
+   "ratio": "3:4",
+   "input": "pouch-green",
+   "use": {
+    "zh": "货架牌",
+    "en": "Shelf tag"
+   },
+   "product": {
+    "zh": "云坳 冷泡茶包",
+    "en": "YUN'AO cold-brew tea bags"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "茶饮",
+    "en": "Tea"
+   },
+   "hero": false,
+   "file": "c04-category-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "c05",
+   "section": "category",
+   "ratio": "4:5",
+   "input": "name",
+   "use": {
+    "zh": "详情页模块",
+    "en": "Detail-page module"
+   },
+   "product": {
+    "zh": "声川 手机壳",
+    "en": "SHENGCHUAN phone case"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "3C 数码",
+    "en": "Electronics"
+   },
+   "hero": false,
+   "file": "c05-category-4x5-1122x1402.png",
+   "pixels": "1122x1402"
+  },
+  {
+   "id": "c06",
+   "section": "category",
+   "ratio": "1:1",
+   "input": "name",
+   "use": {
+    "zh": "货架牌",
+    "en": "Shelf tag"
+   },
+   "product": {
+    "zh": "嗑嗑 每日坚果礼盒",
+    "en": "KEKE daily nuts gift box"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "cat": {
+    "zh": "零食",
+    "en": "Snacks"
+   },
+   "hero": false,
+   "file": "c06-category-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
    "id": "s01",
    "section": "size",
    "ratio": "1:1",
@@ -21,6 +159,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "食品",
+    "en": "Food"
+   },
    "hero": true,
    "file": "s01-size-1x1-1254x1254.png",
    "pixels": "1254x1254"
@@ -40,6 +182,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "食品",
+    "en": "Food"
+   },
    "hero": false,
    "file": "s02-size-3x4-1086x1448.png",
    "pixels": "1086x1448"
@@ -59,6 +205,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "食品",
+    "en": "Food"
+   },
    "hero": false,
    "file": "s03-size-9x16-941x1672.png",
    "pixels": "941x1672"
@@ -78,6 +228,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "食品",
+    "en": "Food"
+   },
    "hero": false,
    "file": "s04-size-16x9-1672x941.png",
    "pixels": "1672x941"
@@ -97,6 +251,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "生鲜",
+    "en": "Fresh produce"
+   },
    "hero": false,
    "file": "s05-special-3x4-1086x1448.png",
    "pixels": "1086x1448"
@@ -116,6 +274,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "护肤",
+    "en": "Skincare"
+   },
    "hero": false,
    "file": "s06-special-1x1-1254x1254.png",
    "pixels": "1254x1254"
@@ -135,6 +297,10 @@
    },
    "text": "plan zh-CN",
    "visual_review": "passed",
+   "cat": {
+    "zh": "咖啡",
+    "en": "Coffee"
+   },
    "hero": false,
    "file": "s07-special-3x4-1086x1448.png",
    "pixels": "1086x1448"
@@ -154,6 +320,10 @@
    },
    "text": "plan en-US",
    "visual_review": "passed",
+   "cat": {
+    "zh": "食品",
+    "en": "Food"
+   },
    "hero": false,
    "file": "s08-special-1x1-1254x1254.png",
    "pixels": "1254x1254"

@@ -4,6 +4,12 @@
 
 | 文件 | 用途 | 实际像素 | 输入 | 文字方式 | visual_review |
 |---|---|---|---|---|---|
+| `c01-category-3x4-1086x1448.png` | 货架牌 | 1086x1448 | 仅商品名称 | plan zh-CN | passed |
+| `c02-category-1x1-1254x1254.png` | 详情页模块 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
+| `c03-category-1x1-1254x1254.png` | 详情页模块 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
+| `c04-category-3x4-1086x1448.png` | 货架牌 | 1086x1448 | 原图 `pouch-green` | plan zh-CN | passed |
+| `c05-category-4x5-1122x1402.png` | 详情页模块 | 1122x1402 | 仅商品名称 | plan zh-CN | passed |
+| `c06-category-1x1-1254x1254.png` | 货架牌 | 1254x1254 | 仅商品名称 | plan zh-CN | passed |
 | `s01-size-1x1-1254x1254.png` | 详情页模块 | 1254x1254 | 原图 `honey-jar` | plan zh-CN | passed |
 | `s02-size-3x4-1086x1448.png` | 货架牌 | 1086x1448 | 原图 `honey-jar` | plan zh-CN | passed |
 | `s03-size-9x16-941x1672.png` | 店内竖屏 | 941x1672 | 原图 `honey-jar` | plan zh-CN | passed |
@@ -23,3 +29,4 @@
 | `sources/cream-jar.jpg` | [w-IvqlYGYAU](https://unsplash.com/photos/w-IvqlYGYAU) · @avtar9w |
 | `sources/honey-jar.jpg` | [0em3k8ebFCs](https://unsplash.com/photos/0em3k8ebFCs) · @jonathanpielmayer |
 | `sources/orange.jpg` | [vRF8YpnkSHc](https://unsplash.com/photos/vRF8YpnkSHc) · @fukayamamo |
+| `sources/pouch-green.jpg` | [ZUVQlvUy0LE](https://unsplash.com/photos/ZUVQlvUy0LE) · @scoutori |
