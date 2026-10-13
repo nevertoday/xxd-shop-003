@@ -1,0 +1,162 @@
+{
+ "skill": "003",
+ "special": {
+  "zh": "牌子从商品形态长出来",
+  "en": "The tag grows from each product's shape"
+ },
+ "set": null,
+ "items": [
+  {
+   "id": "s01",
+   "section": "size",
+   "ratio": "1:1",
+   "input": "honey-jar",
+   "use": {
+    "zh": "详情页模块",
+    "en": "Detail-page module"
+   },
+   "product": {
+    "zh": "野蜂坡 百花蜜",
+    "en": "YEFENGPO wildflower honey"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": true,
+   "file": "s01-size-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "s02",
+   "section": "size",
+   "ratio": "3:4",
+   "input": "honey-jar",
+   "use": {
+    "zh": "货架牌",
+    "en": "Shelf tag"
+   },
+   "product": {
+    "zh": "野蜂坡 百花蜜",
+    "en": "YEFENGPO wildflower honey"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s02-size-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s03",
+   "section": "size",
+   "ratio": "9:16",
+   "input": "honey-jar",
+   "use": {
+    "zh": "店内竖屏",
+    "en": "In-store vertical screen"
+   },
+   "product": {
+    "zh": "野蜂坡 百花蜜",
+    "en": "YEFENGPO wildflower honey"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s03-size-9x16-941x1672.png",
+   "pixels": "941x1672"
+  },
+  {
+   "id": "s04",
+   "section": "size",
+   "ratio": "16:9",
+   "input": "honey-jar",
+   "use": {
+    "zh": "横幅",
+    "en": "Banner"
+   },
+   "product": {
+    "zh": "野蜂坡 百花蜜",
+    "en": "YEFENGPO wildflower honey"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s04-size-16x9-1672x941.png",
+   "pixels": "1672x941"
+  },
+  {
+   "id": "s05",
+   "section": "special",
+   "ratio": "3:4",
+   "input": "orange",
+   "use": {
+    "zh": "货架牌",
+    "en": "Shelf tag"
+   },
+   "product": {
+    "zh": "橙里 赣南脐橙",
+    "en": "CHENGLI Gannan navel oranges"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s05-special-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s06",
+   "section": "special",
+   "ratio": "1:1",
+   "input": "cream-jar",
+   "use": {
+    "zh": "详情页模块",
+    "en": "Detail-page module"
+   },
+   "product": {
+    "zh": "栖白 柔雾面霜",
+    "en": "QIBAI soft-matte cream"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s06-special-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  },
+  {
+   "id": "s07",
+   "section": "special",
+   "ratio": "3:4",
+   "input": "cold-brew",
+   "use": {
+    "zh": "货架牌",
+    "en": "Shelf tag"
+   },
+   "product": {
+    "zh": "山屿 冷萃咖啡",
+    "en": "SHANYU cold brew"
+   },
+   "text": "plan zh-CN",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s07-special-3x4-1086x1448.png",
+   "pixels": "1086x1448"
+  },
+  {
+   "id": "s08",
+   "section": "special",
+   "ratio": "1:1",
+   "input": "honey-jar",
+   "use": {
+    "zh": "详情页模块",
+    "en": "Detail-page module"
+   },
+   "product": {
+    "zh": "野蜂坡 百花蜜",
+    "en": "YEFENGPO wildflower honey"
+   },
+   "text": "plan en-US",
+   "visual_review": "passed",
+   "hero": false,
+   "file": "s08-special-1x1-1254x1254.png",
+   "pixels": "1254x1254"
+  }
+ ]
+}

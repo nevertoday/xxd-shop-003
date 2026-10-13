@@ -10,9 +10,28 @@
 
 > Original brief: [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English reading translation](references/original-prompt/en.md)
 
+<!-- xxd-samples:start -->
 ## Samples
 
-No samples yet. The commands below are usage examples, not visual evidence.
+<p align="center"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" width="720" alt="Detail-page module"></a><br><sub>Detail-page module · 1:1 · 1254x1254<br>YEFENGPO wildflower honey · <a href="assets/examples/sources/honey-jar.jpg">source photo</a> · copy plan (Chinese)</sub></p>
+
+### One product, every placement
+
+Same product, same brief: each ratio is a new composition, not a crop.
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s01-size-1x1-1254x1254.png"><img src="assets/examples/preview/s01-size-1x1-1254x1254.webp" height="200" alt="Detail-page module"></a><br><sub>Detail-page module · 1:1 · 1254x1254<br>YEFENGPO wildflower honey · <a href="assets/examples/sources/honey-jar.jpg">source photo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s02-size-3x4-1086x1448.png"><img src="assets/examples/preview/s02-size-3x4-1086x1448.webp" height="200" alt="Shelf tag"></a><br><sub>Shelf tag · 3:4 · 1086x1448<br>YEFENGPO wildflower honey · <a href="assets/examples/sources/honey-jar.jpg">source photo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s03-size-9x16-941x1672.png"><img src="assets/examples/preview/s03-size-9x16-941x1672.webp" height="200" alt="In-store vertical screen"></a><br><sub>In-store vertical screen · 9:16 · 941x1672<br>YEFENGPO wildflower honey · <a href="assets/examples/sources/honey-jar.jpg">source photo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s04-size-16x9-1672x941.png"><img src="assets/examples/preview/s04-size-16x9-1672x941.webp" height="200" alt="Banner"></a><br><sub>Banner · 16:9 · 1672x941<br>YEFENGPO wildflower honey · <a href="assets/examples/sources/honey-jar.jpg">source photo</a> · copy plan (Chinese)</sub></td></tr>
+</table>
+
+### The tag grows from each product's shape
+
+<table>
+<tr><td align="center" valign="top"><a href="assets/examples/s05-special-3x4-1086x1448.png"><img src="assets/examples/preview/s05-special-3x4-1086x1448.webp" height="220" alt="Shelf tag"></a><br><sub>Shelf tag · 3:4 · 1086x1448<br>CHENGLI Gannan navel oranges · <a href="assets/examples/sources/orange.jpg">source photo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s06-special-1x1-1254x1254.png"><img src="assets/examples/preview/s06-special-1x1-1254x1254.webp" height="220" alt="Detail-page module"></a><br><sub>Detail-page module · 1:1 · 1254x1254<br>QIBAI soft-matte cream · <a href="assets/examples/sources/cream-jar.jpg">source photo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s07-special-3x4-1086x1448.png"><img src="assets/examples/preview/s07-special-3x4-1086x1448.webp" height="220" alt="Shelf tag"></a><br><sub>Shelf tag · 3:4 · 1086x1448<br>SHANYU cold brew · <a href="assets/examples/sources/cold-brew.jpg">source photo</a> · copy plan (Chinese)</sub></td><td align="center" valign="top"><a href="assets/examples/s08-special-1x1-1254x1254.png"><img src="assets/examples/preview/s08-special-1x1-1254x1254.webp" height="220" alt="Detail-page module"></a><br><sub>Detail-page module · 1:1 · 1254x1254<br>YEFENGPO wildflower honey · <a href="assets/examples/sources/honey-jar.jpg">source photo</a> · copy plan (English)</sub></td></tr>
+</table>
+
+<sub>All sample products are fictional demo brands, and their prices and specs are demo values. Source photos come from Unsplash; credits and licence are in [assets/examples/README.md](assets/examples/README.md). Each image is one complete generation: not retouched, composited or upscaled, with its real pixel size shown. Images that failed visual review were regenerated and are not shown. Click for full size.</sub>
+
+<!-- xxd-samples:end -->
 
 ## What it solves
 
