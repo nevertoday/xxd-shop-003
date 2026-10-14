@@ -69,9 +69,9 @@ ln -s "$(pwd)/xxd-shop-003" ~/.claude/skills/xxd-shop-003
 ```
 
 ```text
-/xxd-shop-003 ./sea-salt-cheese-bagel.png --product "Sea Salt Cheese Bagel" --facts "¥16; 120 g each" --size 1:1 --text prompt --locale en-US
+/xxd-shop-003 ./sea-salt-cheese-bagel.png --product "Sea Salt Cheese Bagel" --facts "¥16; 120 g each" --size 1:1 --locale en-US
 /xxd-shop-003 ./freeze-dried-strawberry.png --product "Freeze-dried Strawberry Crisps" --text plan --copy "whole berries, no added sugar, sweet-tart crunch, 30 g bag" --locale en-US
-/xxd-shop-003 ~/Desktop/new-skus/ --size 4:5 --text prompt --locale zh-CN
+/xxd-shop-003 ~/Desktop/new-skus/ --size 4:5 --locale zh-CN
 ```
 
 Key flags: `--product`, `--facts`, `--text prompt / exact / plan / none`, `--copy`, `--size`, `--count`, `--locale`. Full list in the [family runtime](references/shop-runtime.md).
@@ -80,6 +80,7 @@ Key flags: `--product`, `--facts`, `--text prompt / exact / plan / none`, `--cop
 
 - The original brief is kept verbatim and is the only aesthetic authority.
 - Attribute words such as "molten", "freshly baked" or "low sugar" appear only when visible or stated by you; "popular", "new" and "limited" need your confirmation.
+- Without your copy, the Skill first drafts the badge copy for you to confirm, each line tagged with its source (your description, the packaging or a fact); nothing is generated until you confirm or edit it. Add `--text prompt` to let the model write it instead.
 - Delivered on a clean plain background; transparency is produced by a separate cut-out, never a painted checkerboard.
 
 <!-- xxd-shop-tail -->

@@ -1,6 +1,6 @@
 ---
 name: xxd-shop-003
-description: "Create XXD Shop 003 custom-shaped product tag badges (电商异形标签牌 / 产品推荐牌) as finished PNGs from a product photo, product directory or product name, treating the bundled original brief as the sole aesthetic authority: one compact die-cut-looking emblem whose silhouette grows out of the product shape, the name lettering and its information blocks, with the product interlocking the board, a characterful readable name, and price, flavour, spec and recommendation stickers woven into the structure. Supports multiple ratios or exact sizes, several compositions per size, prompt-generated, user-exact or user-plan copy, and supplied facts only. Use when the user invokes xxd-shop-003 or asks for 异形标签、推荐牌、产品徽章、价格牌、商品角标图、店内推荐卡."
+description: "Create XXD Shop 003 custom-shaped product tag badges (电商异形标签牌 / 产品推荐牌) as finished PNGs from a product photo, product directory or product name, treating the bundled original brief as the sole aesthetic authority: one compact die-cut-looking emblem whose silhouette grows out of the product shape, the name lettering and its information blocks, with the product interlocking the board, a characterful readable name, and price, flavour, spec and recommendation stickers woven into the structure. Supports multiple ratios or exact sizes, several compositions per size, prompt-generated, user-exact or user-plan copy, and supplied facts only. Without user copy, it first drafts a sourced copy plan for the user to confirm before generating. Use when the user invokes xxd-shop-003 or asks for 异形标签、推荐牌、产品徽章、价格牌、商品角标图、店内推荐卡."
 ---
 
 # XXD Shop 003｜异形推荐牌
@@ -20,6 +20,8 @@ description: "Create XXD Shop 003 custom-shaped product tag badges (电商异形
 **价格不留空位。** 原稿把价格列为常见信息块，但价格只来自“可用事实”。没有价格时，画面不出现价格签，也不出现 `¥XX`、`¥--`、`$0.00` 之类的占位符；信息块改由已有的规格、口味、原料或推荐语组成，信息少就让牌面更紧凑。
 
 **属性词要真。** 原稿举的贴纸语里，“爆浆、现烤、低甜、真材实料、浓郁”描述的是商品本身的属性。它们只在商品图能看出来、或用户说过时使用；“人气款”属于第三级事实，需要来源；“新品、限定”属于第二级，需要用户说过；“店长推荐”是第一级语气，但本编号收紧为用户确认后才用，因为一枚推荐牌上的“店长推荐”会被顾客当成真实推荐。
+
+**文字默认：先起草文案方案。** 本编号启用家族的“起草文案方案”。原稿让模型自己判断“最值得强调的购买理由”并生成贴纸语，样张里模型反复编出商品图看不出、用户也没说过的属性词，所以用户没给文案、也没选文字方式时，Agent 先按原稿的信息块起草：商品名、价格与规格（只来自“可用事实”）、口味或主原料、一到两条贴纸语或推荐语。贴纸语遵守上一条：属性词要看得出或用户说过；“店长推荐”“人气款”“新品”“限定”不写进草稿，除非用户说过。用户确认后按 `--text plan` 出图；用户明确要模型按原稿生成时照做。
 
 **交付的是一枚牌，不是一个场景。** 原稿没有规定底色。成品放在干净的单色底上，牌面周围不加桌面、货架或场景，方便用户直接贴进详情页或店内物料。用户要透明底时，生成后另做抠图交付；不在画面里画灰白棋盘格冒充透明。
 

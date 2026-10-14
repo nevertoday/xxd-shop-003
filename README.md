@@ -86,14 +86,14 @@ ln -s "$(pwd)/xxd-shop-003" ~/.claude/skills/xxd-shop-003
 ```
 
 ```text
-# 商品图 + 价格规格，文字由模型按原稿组织
-/xxd-shop-003 ./海盐芝士贝果.png --product "海盐芝士贝果" --facts "¥16；单个 120g" --size 1:1 --text prompt --locale zh-CN
+# 商品图 + 价格规格：先起草牌面文案给你确认，再出图（默认）
+/xxd-shop-003 ./海盐芝士贝果.png --product "海盐芝士贝果" --facts "¥16；单个 120g" --size 1:1 --locale zh-CN
 
 # 你有一整段卖点文案，让它按牌面层级理顺
 /xxd-shop-003 ./冻干草莓.png --product "冻干草莓脆" --text plan --copy "整颗冻干 不加糖 酸甜脆口 一袋 30g 办公室零食" --locale zh-CN
 
-# 一套 SKU，每件一枚推荐牌
-/xxd-shop-003 ~/Desktop/新品SKU/ --size 4:5 --text prompt --locale zh-CN
+# 一套 SKU，每件一枚推荐牌；每件各起草一份文案，一次确认
+/xxd-shop-003 ~/Desktop/新品SKU/ --size 4:5 --locale zh-CN
 ```
 
 常用参数：`--product` · `--facts` · `--text prompt / exact / plan / none` · `--copy` · `--size` · `--count` · `--locale`。完整参数见[家族运行合同](references/shop-runtime.md)。
@@ -102,6 +102,7 @@ ln -s "$(pwd)/xxd-shop-003" ~/.claude/skills/xxd-shop-003
 
 - 原始提示词逐字保存，是唯一的审美权威。
 - “爆浆、现烤、低甜”这类描述商品属性的词，只在看得出来或你说过时出现；“人气款、新品、限定”需要你确认。
+- 没给文案时，先起草一份牌面文案给你确认，每句注明出处（你的描述、包装文字或事实），你确认或改过后才出图；想让模型直接写，加 `--text prompt`。
 - 交付 PNG 位图；每次调用都新建任务目录。
 
 <!-- xxd-shop-tail -->
